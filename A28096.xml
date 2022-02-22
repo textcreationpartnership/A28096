@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession of faith written by Sr. Francis Bacon.</title>
+            <author>Bacon, Francis, 1561-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28096</idno>
+            <idno type="STC">Wing B280</idno>
+            <idno type="STC">ESTC R5546</idno>
+            <idno type="EEBO-CITATION">12190864</idno>
+            <idno type="OCLC">ocm 12190864</idno>
+            <idno type="VID">55866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28096)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55866)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 119:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession of faith written by Sr. Francis Bacon.</title>
+                  <author>Bacon, Francis, 1561-1626.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55866:1"/>
+            <pb facs="tcp:55866:1"/>
+            <p>THE CONFESSION OF FAITH.</p>
+            <p>Written by Sr. FRANCIS BACON.</p>
+            <figure>
+               <figDesc>portrait of Francis Bacon</figDesc>
+            </figure>
+            <p>Printed in the Yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55866:2"/>
+            <pb n="1" facs="tcp:55866:2"/>
+            <head>The Confeſsion of FAITH.</head>
+            <p>
+               <seg rend="decorInit">F</seg>IRST, I believe, That nothing is without beginning but God, no Nature, no Matter, no Spirit, no eſſence, but one onely, and the ſame God: That God, as he is E<g ref="char:EOLhyphen"/>ternall, Almightie, onely wiſe, onely good in his Nature, ſo he is Eternally Father, Sonne, and Holy Spirit, in three perſons.</p>
+            <p>I believe, that God is ſo holy, pure, and zealous, that it is impoſſible for him to be pleaſed in any crea<g ref="char:EOLhyphen"/>ture, though the worke of his owne hands, ſo that neither Angell, Man, nor World could ſtand, or can ſtand one moment in his eyes, without beholding the ſame in the face of a Mediator: And therefore that before him with whom all things are preſent, the lamb of God was ſlaine before all worlds; without which
+<pb n="2" facs="tcp:55866:3"/>eternall Counſell of God it was impoſſible for him to have deſcended to any worke of Creation, but ſhould have enjoyed the bleſſed and individual ſocietie of the three perſons in the God-head onely for ever, but that out of his eternall and infinite goodneſſe and love, purpoſing to become a Creator, and to com<g ref="char:EOLhyphen"/>municate with his Creatures, that ſo in the perſon of the Mediator, the true Ladder might bee fixed, whereby God might deſcend to his Creatures, and his Creatures might aſcend to God; ſo that God by the reconcilement of a Mediator, turning his Coun<g ref="char:EOLhyphen"/>tenance towards his Creatures, though not in the ſame height, and degree, made way unto the diſpo<g ref="char:EOLhyphen"/>ſition of his moſt holy and ſacred will, whereby ſome of his Creatures might ſtand, and keep their eſtates, others might fall, and be reſtored unto their eſtates, but yet remaine in being, though under wrath, and corruption, all in the vertue of a Mediator, which is the great myſterie, and perfect Center of all Gods wayes unto his Creatures, and unto which all his other Workes and Wonders doe but ſerve and re<g ref="char:EOLhyphen"/>ferre.</p>
+            <p>That hee choſe according to his pleaſure man to be that Creature to whoſe Nature the eternall Sonne of God ſhould be united, and amongſt the generations of men hee elected a ſmall flock in whom by the participation of himſelfe he purpoſed to expreſſe the Rayes of his Glorie, all the miniſtration of An<g ref="char:EOLhyphen"/>gels, damnation of Devills and Reprobates, uni<g ref="char:EOLhyphen"/>verſall adminiſtration of all Creatures, and diſpen<g ref="char:EOLhyphen"/>ſation of all times, have no other ends but as the waies and Ambages of God to he further glorified
+<pb n="3" facs="tcp:55866:3"/>in his ſaints who are one with the Mediatour, who is one with God.</p>
+            <p>That by the vertue of God his Eternall Counſell touching a Mediator, he deſcended at his owne good pleaſure, and according to the times, and ſeaſons to himſelfe beſt knowne to become a Creatour, and by his eternall word created all things, and by his eter<g ref="char:EOLhyphen"/>nall ſpirit doth comfort, and preſerve them.</p>
+            <p>That hee made all things in their firſt eſtate good, and removed from himſelfe leaving the beginning of all evill, and vanitie unto the liberty of the creature, but reſerving in himſelfe the beginning of all reſtitu<g ref="char:EOLhyphen"/>tion, and the liberty of his Grace, uſing never the<g ref="char:EOLhyphen"/>leſſe, and turning the falling, and defection of the Creature, which to his preſcience was eternally known, to make a way to his eternall Counſell touching a Me<g ref="char:EOLhyphen"/>diatour, &amp; the work he purpoſed to accompliſh in him.</p>
+            <p>That God created Spirits, whereof ſome kept their ſtandings, and others fell, he created heaven, and earth, and all their Armies and Generations, and gave unto them conſtant and everlaſting laws, which we call nature which is nothing but the laws of the Crea<g ref="char:EOLhyphen"/>tion, which lawsnevertheleſſe have had three changes, or times, and are to have their fourth and laſt.</p>
+            <p>The firſt, when the matter of Heaven and Earth was created without forme.</p>
+            <p>The ſecond by the Interim of every days worke.</p>
+            <p>The third, by the curſe which notwithſtanding was no new Creation, but a privation of part of the firſt Creation.</p>
+            <p>And the fourth and laſt, at the end of the world
+<pb n="4" facs="tcp:55866:4"/>the manner whereof is not yet revealed. So as the Lawes of nature which now remaine, and governe inviolably till the end of the world began to be in force when God reſted from his worke, and ceaſed to create, but receaved a revocation in part by the curſe ſince which time they change not.</p>
+            <p>That notwithſtanding God hath reſted from crea<g ref="char:EOLhyphen"/>ting ſince the firſt Sabboth, yet nevertheleſſe he doth ac<g ref="char:EOLhyphen"/>compliſh, and fulfill his divine will in all things, great and ſmall, generall, and particular, as fully, and exactly by providence as he could doe by miracle, and new Creation, though his working bee not immedi<g ref="char:EOLhyphen"/>ate, and direct, but by compaſſe, not violating nature which is his owne Lawe upon his Creatures.</p>
+            <p>That as at the firſt the ſoule of man was not produ<g ref="char:EOLhyphen"/>ced of heaven, or earth, but was breathed immedi<g ref="char:EOLhyphen"/>atly from God, ſo that the wayes, and proceedings of God with Spirits are not included in nature that is in the lawes of heaven or earth, but are reſerved to the lawe of his ſecret will, and grace whereby God worketh ſtill, and reſteth not from the worke of Cre<g ref="char:EOLhyphen"/>ation, as he doth from the worke of Redemption, but continueth working to the end of the world, at what time alſo that work ſhalbe accompliſhed, and an eternall Sabboth ſhall enſue.</p>
+            <p>Likewiſe that whenſoever God doth breake the laws of nature by miracles (which ever are new Crea<g ref="char:EOLhyphen"/>tions) he never commeth to that point, or paſſe, but he hath regard to the work of Redemption which is the greater, and whereunto all Gods Saints and Mar<g ref="char:EOLhyphen"/>tyrs doe refer.</p>
+            <pb n="5" facs="tcp:55866:4"/>
+            <p>That God created man in his own Image, or likeneſſe, in a reaſonable ſoule in innocencie, and ſoveraignty, that he gave him a law and command which was in his power to keep, but he kept it not.</p>
+            <p>That man made a totall defection from God, preſuming to imagine that the lawes, and pro<g ref="char:EOLhyphen"/>hibitions of God were not the rules of good, and evill, but that good and evill had their prin<g ref="char:EOLhyphen"/>ciples, and beginnings, and luſted after the knowledg of thoſe imaginary beginnings to the end to depend no more upon Gods will re<g ref="char:EOLhyphen"/>vealed, but upon himſelfe and his owne light as a God, then the which there could not be a ſin more oppoſite to the law of God.</p>
+            <p>That yet nevertheleſſe this great ſin was not originally moved by the malice of man, but was inſinuated by the Inſtigation, and ſuggeſti<g ref="char:EOLhyphen"/>on of the Devill, who was the firſt defected crea<g ref="char:EOLhyphen"/>ture, and fell of malice, and not by temptati<g ref="char:EOLhyphen"/>on.</p>
+            <p>That upon the fall of man, death, and vani<g ref="char:EOLhyphen"/>ty entered by the Juſtice of God, and the I<g ref="char:EOLhyphen"/>mage of God in man was defaced, and Hea<g ref="char:EOLhyphen"/>ven and Earth which were made for mans uſe, were ſubdued to corruption by his fall, but then that inſtantly, and without intermiſſion of time after the word of gods law, becauſe throgh the fall of man fruſtrate as to obedience there ſucceeded the greater word of the promiſe, that
+<pb n="9" facs="tcp:55866:5"/>the righteouſneſſe of God might be made, and wrought by faith.</p>
+            <p>That aſwell the word of God as the word of his promiſe endure the ſame for ever, but that they have beene revealed in ſeverall manners ac<g ref="char:EOLhyphen"/>cording to the diſpenſation of times, for the Law was firſt imprinted in that remnant of light of nature which was left after the fall beeing ſuf<g ref="char:EOLhyphen"/>ficient to accuſe, it was more manifeſtly expreſſed in the written Lawes, it was yet more opened by the Prophets; And laſtly expreſſed in the true perfection of the Son of God, the great Pro<g ref="char:EOLhyphen"/>phet, and perfect Interpreter of the Law.</p>
+            <p>That likewiſe the word of the promiſe was manifeſted, and revealed firſt by immediate Revelation and Inſpiration, after by figures which were of two natures, the one the rights and Ceremonies of the Lawe, the other the continuall hiſtories of the old world, and Church of the <hi>Iewes,</hi> which though it bee literally true, yet it is pregnant of a perpetuall Allegorie, and a ſhadow of the worke of Redemption, which was to follow, the ſame promiſe, or Evan<g ref="char:EOLhyphen"/>gell was more clearely revealed, and expreſſed by the Prophets, than by the Sonne himſelfe, and laſtly by the Holy Ghoſt, which illumi<g ref="char:EOLhyphen"/>nateth the CHVRCH to the end of the world.</p>
+            <p>That in the fullneſſe of time according to the promiſe, and oath of GOD, of a choſen line<g ref="char:EOLhyphen"/>age
+<pb n="7" facs="tcp:55866:5"/>deſcended the bleſſed ſeed of the Wo<g ref="char:EOLhyphen"/>man (Jeſus Chriſt, the onely begotten Son of GOD) and Saviour of the World, who was Conceived by the Power, and over<g ref="char:EOLhyphen"/>ſhadowing of the Holy Ghoſt, and tookfleſh of the Virgin MARIE.</p>
+            <p>That the Word did not onely take fleſh, or was joyned to fleſh, though without con<g ref="char:EOLhyphen"/>confuſion of Subſtance, or Nature, ſo as the Eternall Sonne of God, and ever bleſſed Sonne of <hi>Mary</hi> was one perſon, ſo one as the bleſſed Virgin may bee truely and Catho<g ref="char:EOLhyphen"/>likely called <hi>Dei para,</hi> the Mother of GOD, ſo one, as there is no unitie in univerſall Na<g ref="char:EOLhyphen"/>ture, not that of the ſoule and bodie of man ſo perfect, for the three Heavenly Unities, whereof that is the ſecond, exceedeth all na<g ref="char:EOLhyphen"/>turall Vnities, that is the unitie of the three perſons in the God-head, the Vnitie of God and Man in Chriſt, and the unitie of Chriſt in the Church; the Holy Ghoſt being the wor<g ref="char:EOLhyphen"/>ker of both theſe latter unities: for by the Holy Ghoſt was Chriſt regenerate in the fleſh, and by the Holy Ghoſt is man regenerate and quickned in the Spirit.</p>
+            <p>That JESUS, the Lord, became in the Fleſh a Sacrificer, and a Sacrifice for ſinne, a ſatisfaction and price to the juſtice of God, a Meriter of Glorie, and of the Kingdome, a patterne of all Righteouſneſſe, a Preacher
+<pb n="8" facs="tcp:55866:6"/>of the Word, which himſelfe was a fini<g ref="char:EOLhyphen"/>ſher of the Ceremonies, a Corner ſtone, to remove the ſeparation betweene <hi>Jew</hi> and <hi>Gentile;</hi> an Interceſſion for the Church; a Lord of Nature in his Miracles: a Con<g ref="char:EOLhyphen"/>queror of death, and the power of Dark<g ref="char:EOLhyphen"/>neſſe in his Reſurrection, and that hee ful<g ref="char:EOLhyphen"/>filled the whole Counſell of GOD perfor<g ref="char:EOLhyphen"/>med his whole ſacred Office, and anoynting upon Earth, and accompliſhed the whole worke of Redemption, and Reſtitution of man to a ſtate ſuperiour to the Angels, where the ſtate of his Creation was inferiour, and reconciled, and eſtabliſhed all things according to the will of the Father.</p>
+            <p>That in the fulneſſe of time, JESUS the Lord was borne, in the dayes of <hi>Herod,</hi> and ſuffered under the Government of <hi>Pontius Pilate,</hi> being Deputie of the Romans, and under the High Prieſt-hood of <hi>Caiphas,</hi> and was betrayed by <hi>Judas,</hi> one of the twelve Apoſtles, and was Crucified at <hi>Hieruſalem,</hi> and dyed after a true and naturall death, and His Body layed in the Sepulcher, the third day Hee raiſed Himſelfe from the Bonds of Death, and aroſe, and ſhewed Himſelfe to many choſen Witneſſes, by the ſpace of divers dayes; and in the end of thoſe dayes in the ſight of many He aſcended into Hea<g ref="char:EOLhyphen"/>ven, where Hee continueth his Interceſ<g ref="char:EOLhyphen"/>ſion,
+<pb n="9" facs="tcp:55866:6"/>and ſhall come in His appoynted time in greateſt Glorie for to judge the World.</p>
+            <p>That the ſufferings and Merits of Chriſt as they are ſufficient to doe away the ſinnes of the whole World, ſo they are effectuall to ſuch as are Regenerate by the Holy Ghoſt, who breatheth where Hee liſteth of free Grace; which Grace, as a Seed incorrup<g ref="char:EOLhyphen"/>tible, quickneth the ſpirit of Man, and conceiveth him a new the ſonne of GOD, and a member of CHRIST, ſo that CHRIST having Mans fleſh, and Man having CHRISTS Spirit, there is an open paſſage, and Imputation whereby ſinne and wrath is conveyed from Man to Chriſt; and Merit and Life is conveyed from Chriſt to Man, which Seed of the Holy Ghoſt firſt figureth in us the Image of CHRIST ſlaine, or Crucified in us in a Holy Faith, and then reneweth in us the Image of God in Holineſſe and Righteouſneſſe, though both imperfectly, and in degrees farre dif<g ref="char:EOLhyphen"/>fering even in GODS Elect, as well in regard of the office of the Spirit, as the Illumination, which is more or leſſe in a large proportion, as namely in the Church before CHRIST, which nevertheleſſe was partaker of one and the ſame ſalvation with us.</p>
+            <pb n="10" facs="tcp:55866:7"/>
+            <p>That the worke of the Spirit, though it bee not tyed to any meanes in Heaven, or in Earth, yet it is ordinarily diſpenſed by the preaching of the Word, and adminiſtra<g ref="char:EOLhyphen"/>tion of the Sacraments, the Covenants of the Fathers upon the Children, Payers, Reading, the Cenſures of the Church, the ſociety of the godly, the croſſe and afflicti<g ref="char:EOLhyphen"/>ons, Gods benefits, his judgements upon o<g ref="char:EOLhyphen"/>thers, his great Miracles, the Contemplati<g ref="char:EOLhyphen"/>on of his Creatures, all which (though ſome bee more principall) God uſeth as the meanes of Vocation and Converſion of his Elect, not derogating from his power to call imme<g ref="char:EOLhyphen"/>diately by his grace, and at all houres, and mo<g ref="char:EOLhyphen"/>ments of the day, that is, of mans life, accor<g ref="char:EOLhyphen"/>ding to his good pleaſure.</p>
+            <p>That the Word of God, by which his Will is revealed, continued in revelation and tradi<g ref="char:EOLhyphen"/>tion, untill <hi>Moſes,</hi> and that the Scriptures were from <hi>Moſes</hi> time untill the time of the Apoſtles, and Evangeliſts, in whoſe age, after the com<g ref="char:EOLhyphen"/>ming of the Holy Ghoſt, the ſearcher of all trtuh, the Booke of the Scriptures is ſhut up, and cloſed, and cannot receive any new addition, and that the Church hath no power after the Scriptures to teach or command any thing con<g ref="char:EOLhyphen"/>trarie to the written Word; but is as the Arke wherein the Tables of the firſt Teſtament were kept and preſerved; That is to ſay, the Church hath onely the cuſtody and deliverie over of the
+<pb n="11" facs="tcp:55866:7"/>Scriptures committed unto the fame together with the Interpretation of them; that there is an Vniverſall, or Catholique Church of GOD diſperſed over the face of the Earth, which is Chriſts Spouſe, and Chriſts body beeing gathe<g ref="char:EOLhyphen"/>red of the Fathers of the old world of the Church of the <hi>Iewes,</hi> of the ſpirits of the faith<g ref="char:EOLhyphen"/>full diſſolved, of the ſpirits of the faithfull mi<g ref="char:EOLhyphen"/>litant, and of the Names yet to bee borne, which are already written <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the Booke of Life,</p>
+            <p>That there is alſo a viſible Church diſtinguiſh<g ref="char:EOLhyphen"/>ed by the outward workes of GODS Covenant, and the renewing of the holy doctrine with the uſe of the myſteries of GOD, and the Invoca<g ref="char:EOLhyphen"/>tion, and Sanctification of his holy name: that there is alſo an holy ſucceſſion in the Prophets of the new Teſtament, and the Fathers of the Church from the time of the Apoſtles, and Diſciples, which ſaw our Saviour in the fleſh, unto the Conſummation of the worke of the Miniſterie, which perſons are called of GOD by gift or Inward anoynting, and the vocation of GOD followed by an outward calling, and or<g ref="char:EOLhyphen"/>dination of the Church: I beleeve that the ſoules of thoſe that dye in the Lord are bleſſed and reſt from their labours, &amp; enjoy the ſight of God yet ſo as they are in farther expectation of their glory in the laſt day, at which time all fleſhof man ſhall ariſe, and be chaunged, and ſhall appeare and receave from Ieſus Chriſt eternall judgment,
+<pb n="12" facs="tcp:55866:8"/>and the glory of the Saints ſhall then bee tull, and the Kingdome ſhall be given to God the Fa<g ref="char:EOLhyphen"/>ther, from which time all things ſhall continue for ever in that beeing, and eſtate which then they ſhall receive, ſo there are three times, if times they may bee called, or parts of Eter<g ref="char:EOLhyphen"/>nitie.</p>
+            <p>The firſt, the time before Beginning, when the God-head was without the being of any Creature.</p>
+            <p>The ſecond, the time of the Myſterie, which continueth from the Creation to the Diſſolu<g ref="char:EOLhyphen"/>tion of the world.</p>
+            <p>And the third, the time of the Revelation of the Saints of God; which time is the laſt, and is everlaſting without change.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:55866:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
